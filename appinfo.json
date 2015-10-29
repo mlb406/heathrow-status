@@ -1,0 +1,25 @@
+{
+    "appKeys": {
+        "KEY_REPORT": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mlb406@gmail.com",
+    "longName": "heathrow-status",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "heathrow-status",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0f4f57b3-b3e4-45f9-b17b-4d91560237ee",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
